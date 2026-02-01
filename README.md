@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Vinita Singh (Vinni)</h1>
   <p>AI Full‑Stack Developer | Problem Solver | Continuous Learner</p>
-  <img src="https://github.com/vinitavictushvi/my-portfolio/blob/main/profile-banner.png" alt="Portfolio Banner" />
+  <img src="https://raw.githubusercontent.com/vinitavictushvi/my-portfolio/main/images/Screenshot%20(384).png" alt="Portfolio Banner" width="800" />
 </div>
 
 ---
@@ -67,4 +67,3 @@ Fully responsive front‑end clones made using HTML, CSS & JS.
 ---
 
 > 🌟 *Let’s connect and build something amazing together!*
-
