@@ -59,6 +59,16 @@ const typed = new Typed('.mp-text', {
 
 // ===== PROJECT DATA =====
 const projects = [
+       {
+        title: "E-ZENVY E-COMMERCE PAGE",
+        image: "images/image.png",
+        description: `"e-Zenvy is a modern e-commerce web application designed to provide users with a seamless and engaging online shopping experience.
+Built using React.js, the project features dynamic product rendering, cart functionality, responsive layouts, and smooth UI interactions.
+The application follows component-based architecture and best frontend development practices, ensuring scalability and maintainability."`,
+        tools: ["React JS", "Node JS", "OpenAI API", "Tailwind CSS"],
+        live: "https://premium-ui-e-zenvy.vercel.app/"
+    },
+    
     {
         title: "E-ZENVY E-COMMERCE PAGE",
         image: "images/image.png",
@@ -66,8 +76,7 @@ const projects = [
 Built using React.js, the project features dynamic product rendering, cart functionality, responsive layouts, and smooth UI interactions.
 The application follows component-based architecture and best frontend development practices, ensuring scalability and maintainability."`,
         tools: ["React JS", "Node JS", "OpenAI API", "Tailwind CSS"],
-        github: "https://github.com/vinitavictushvi/e-zenvy.git",
-        live: "https://e-zenvy-vercel.vercel.app/"
+        live: "https://premium-ui-e-zenvy.vercel.app/"
     },
     {
         title: "VictuRush",
@@ -76,7 +85,6 @@ The application follows component-based architecture and best frontend developme
 It features a clean layout, user-friendly navigation, and interactive components such as post feeds, profile sections, likes, and comments UI.
 The project follows a component-based architecture and modern frontend best practices, making it scalable and easy to maintain.`,
         tools: ["JavaScript", "React.JS", "HTLM5", "CSS3","Git" , "GitHub", "Vercel" ,"Vs Code"],
-        github: "https://github.com/vinitavictushvi/rapchik.git",
         live: "https://rapchik.vercel.app/"
     },
     {
